@@ -1,1 +1,1 @@
-Neste projeto foi desenvolvido um sistema bancário simples, com armazenamento de dados através de variáveis e constantes, contando também com
+Neste projeto foi desenvolvido um sistema bancário simples, com armazenamento de dados através de variáveis e constantes, contando também com um sistema de bloqueio de saques baseando-se em valor máximo e quantidades solicitadas por dia.
